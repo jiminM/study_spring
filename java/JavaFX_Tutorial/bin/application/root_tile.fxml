@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.TilePane?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.image.Image?>
+
+<TilePane xmlns:fx="http://javafx.com/fxml/1" prefTileWidth="200" prefTileHeight="100">
+	<children>
+		<ImageView>
+			<image>
+				<Image url="@images/v.jpeg"/>
+			</image>
+		</ImageView>
+		<ImageView>
+			<image>
+				<Image url="@images/suga.jpeg" />
+			</image>
+		</ImageView>
+		<ImageView>
+			<image>
+				<Image url="@images/rm.jpeg" />
+			</image>
+		</ImageView>
+		<ImageView>
+			<image>
+				<Image url="@images/jk.jpeg" />
+			</image>
+		</ImageView>
+		<ImageView>
+			<image>
+				<Image url="@images/jin.jpeg" />
+			</image>
+		</ImageView>
+		<ImageView>
+			<image>
+				<Image url="@images/jimin.jpeg" />
+			</image>
+		</ImageView>
+		<ImageView>
+			<image>
+				<Image url="@images/jhope.jpeg" />
+			</image>
+		</ImageView>
+	</children>
+</TilePane>
+
